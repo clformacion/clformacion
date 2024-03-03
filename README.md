@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
-![texto cualquiera por si no carga la imagen]( https://clformacion.es/git1.html)
+# Esto es un H1
+## Esto es un H2
+### Esto es un H3
+#### Esto es un H4
 
 
