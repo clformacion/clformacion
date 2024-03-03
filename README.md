@@ -1,6 +1,6 @@
-### Hi there 👋<h1>Bienvenidos</h1>
+### Hi there 👋<h1 style="text-align: center;color: blue">Bienvenidos</h1>
 
-<img src="aprende.gif" hight="300px">
+<img src="aprende.gif" height="300px">
 
 
 
